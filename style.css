@@ -1,0 +1,26 @@
+h1 {
+    font-size: 100px;
+    color: red;
+    
+    padding: 10px;
+    
+}
+h4 {
+    font-size: 50px;
+    color: aqua
+}
+.classSelector{
+    font-size: 50px;
+    color : green;
+    
+}
+#idSelector{
+    font-size: 50px;
+    color:  blue ;
+}
+
+body{
+    background-image: url(anhnen2.jpg);
+    background-size: cover;
+    
+}
