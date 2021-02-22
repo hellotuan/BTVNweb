@@ -24,3 +24,8 @@ body{
     background-size: cover;
     
 }
+
+button:hover{
+    color: crimson;
+    background-color: skyblue
+}
